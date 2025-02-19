@@ -1,6 +1,6 @@
 # Machine Learning Potentials
 The code library for practicing machine-learning potentials (MLPs) 
-### Descriptor Model  
+### Descriptor Models  
 - Behler-Parrinello neural network potential (BP-NNP)  
 - DeppPMD-kit
 - Gaussian approximation potential (GAP)  
